@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F6439AB01A64C640E57607BDE31545EDE306EB2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3157588306282B08E7123DE41FB20784E5F948EB" : 0,
+    "F6439AB01A64C640E57607BDE31545EDE306EB2C" : 0,
+    "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19979A32-217A-47F9-B671-7A38E2F44589",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3157588306282B08E7123DE41FB20784E5F948EB" : "Hoppy-Bunny-SpriteKit-Swift\/Testing\/Hoppy-Bunny-SpriteKit-Swift-Solution\/",
+    "F6439AB01A64C640E57607BDE31545EDE306EB2C" : "HoppyBunny\/",
+    "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA" : "Hoppy-Bunny-SpriteKit-Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HoppyBunny",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HoppyBunny.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MakeSchool-Tutorials\/Hoppy-Bunny-SpriteKit-Swift-Solution.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3157588306282B08E7123DE41FB20784E5F948EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jeffchiu605\/Hoppy-Bunny-SpriteKit-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Jeffchiucp\/Hoppy-BunnyGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6439AB01A64C640E57607BDE31545EDE306EB2C"
+    }
+  ]
+}
